@@ -12,15 +12,15 @@
 @attribute ' DISPONIBILIDAD' numeric  % DEB PAYING AVAILABILITY
 @attribute ' FON_MAN' numeric
 @attribute ' GARANTIA' numeric % WARRANTY
-@attribute ' MARGEN' numeric
-@attribute ' NIV_END' numeric
+@attribute ' MARGEN' numeric % OPERATING INCOME MARGIN
+@attribute ' NIV_END' numeric % LEVERAGE
 @attribute ' REC_GEN' numeric
-@attribute ' REN_ECO' numeric
-@attribute ' REN_FIN' numeric
-@attribute ' REN_TOT' numeric
+@attribute ' REN_ECO' numeric % RETURN ON OPERATING ASSETS
+@attribute ' REN_FIN' numeric % RETURN ON EQUITY
+@attribute ' REN_TOT' numeric % RETURN ON ASSETS
 @attribute ' ROT_ACT' numeric % STOCK TURNOVER
 @attribute ' ROT_DER' numeric % RECEIVABLE TURNOVER
-@attribute ' SOLVENCIA' numeric
+@attribute ' SOLVENCIA' numeric % FINANCIAL SOLVENCY (CURRENT RATIO)
 @attribute ' TES_ACI' numeric % ACID TEST
 @attribute ' IMP_HIST_INC_JUDICIALES' numeric % HISTORIC AMOUNT OF MONEY SPENT ON JUDICIAL INCIDENCES
 @attribute ' IMP_INC_JUDICIALES' numeric % AMOUNT OF MONEY SPENT ON JUDICIAL INCIDENCES (LAST YEAR)
