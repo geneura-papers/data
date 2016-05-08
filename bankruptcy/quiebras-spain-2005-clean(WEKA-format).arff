@@ -13,7 +13,7 @@
 @attribute ' FON_MAN' numeric % WORKING CAPITAL
 @attribute ' GARANTIA' numeric % WARRANTY
 @attribute ' MARGEN' numeric % OPERATING INCOME MARGIN
-@attribute ' NIV_END' numeric % LEVERAGE
+@attribute ' NIV_END' numeric % DEBT RATIO
 @attribute ' REC_GEN' numeric % RETURN ON OPERATING ASSETS
 @attribute ' REN_ECO' numeric % STOCK TURNOVER?
 @attribute ' REN_FIN' numeric % RETURN ON EQUITY
