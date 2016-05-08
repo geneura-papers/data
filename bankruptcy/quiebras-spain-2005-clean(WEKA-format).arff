@@ -2,23 +2,23 @@
 
 @attribute TAMANO numeric % SIZE
 @attribute ' CNAE_3' numeric % NATIONAL CODE OF THE COMPANY
-@attribute ' EJERCICIO' numeric % EXERCISE (ECONOMIC YEAR)
+@attribute ' EJERCICIO' numeric %  FISCAL YEAR
 @attribute ' ANTIGUEDAD' numeric % AGE
 @attribute ' AUDITADA' numeric % AUDITED
 @attribute ' COD_FORMASOC' numeric % SOCIAL CODE OF THE COMPANY
 @attribute ' COD_PROVINCIA' numeric % CODE OF PROVINCE
-@attribute ' COM_END' numeric
-@attribute ' COS_END' numeric
+@attribute ' COM_END' numeric % Debt structure
+@attribute ' COS_END' numeric % Debt cost
 @attribute ' DISPONIBILIDAD' numeric  % DEB PAYING AVAILABILITY
-@attribute ' FON_MAN' numeric
+@attribute ' FON_MAN' numeric % WORKING CAPITAL
 @attribute ' GARANTIA' numeric % WARRANTY
 @attribute ' MARGEN' numeric % OPERATING INCOME MARGIN
 @attribute ' NIV_END' numeric % LEVERAGE
-@attribute ' REC_GEN' numeric
-@attribute ' REN_ECO' numeric % RETURN ON OPERATING ASSETS
+@attribute ' REC_GEN' numeric % RETURN ON OPERATING ASSETS
+@attribute ' REN_ECO' numeric % STOCK TURNOVER?
 @attribute ' REN_FIN' numeric % RETURN ON EQUITY
 @attribute ' REN_TOT' numeric % RETURN ON ASSETS
-@attribute ' ROT_ACT' numeric % STOCK TURNOVER
+@attribute ' ROT_ACT' numeric % ASSET TURNOVER
 @attribute ' ROT_DER' numeric % RECEIVABLE TURNOVER
 @attribute ' SOLVENCIA' numeric % FINANCIAL SOLVENCY (CURRENT RATIO)
 @attribute ' TES_ACI' numeric % ACID TEST
