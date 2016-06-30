@@ -14,4 +14,5 @@
 ###Data was taken from:
 http://www.global-view.com/forex-trading-tools/forex-history/index.html
 
-###@vrivas wants to use it with jsEvRBF
+###Used by Geneura in:
+* @vrivas wants to use them in Juyly, 2016 just to compare results
