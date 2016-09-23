@@ -1,7 +1,7 @@
 ﻿@relation bankruptcy-spain-1998:2003
 
 @attribute YEAR integer   %  FISCAL YEAR
-@attribute SIZE integer   % SIZE
+@attribute SIZE {small,medium,big}   % SIZE
 @attribute NUMBER_EMPLOYEES integer   % NUMBER OF EMPLOYEES
 @attribute AGE integer   % AGE
 @attribute SOCIAL_CODE {Co,Ltd,other}   % SOCIAL CODE OF THE COMPANY
